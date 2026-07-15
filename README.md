@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">📚 Clube das Meninas Superleitoras</h1>
-
 <p align="center">
   <em>"Quatro amigas. Muitos livros. Uma história sendo escrita a cada encontro."</em> 💜
 </p>

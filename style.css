@@ -729,3 +729,152 @@ width:70%;
     font-family: 'Playfair Display', serif;
 
 }
+
+/* CONTATO */
+
+.pagina-contato{
+
+    padding: 120px 10% 70px;
+
+}
+
+.titulo-contato{
+
+    text-align:center;
+
+    margin-bottom:60px;
+
+}
+
+.titulo-contato span{
+
+    color:#d45d9b;
+
+    font-weight:600;
+
+}
+
+.titulo-contato h1{
+
+    font-family:'Playfair Display', serif;
+
+    font-size:45px;
+
+    margin:15px 0;
+
+    color:#3d2b3d;
+
+}
+
+.titulo-contato p{
+
+    max-width:650px;
+
+    margin:auto;
+
+    color:#666;
+
+    line-height:1.8;
+
+}
+
+.container-contato{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:50px;
+
+    flex-wrap:wrap;
+
+}
+
+.informacoes-contato{
+
+    flex:1;
+
+    min-width:280px;
+
+}
+
+.informacoes-contato h2{
+
+    margin-bottom:20px;
+
+    font-family:'Playfair Display', serif;
+
+}
+
+.informacoes-contato p{
+
+    margin:18px 0;
+
+    color:#555;
+
+}
+
+.form-contato{
+
+    flex:1;
+
+    min-width:320px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:20px;
+
+}
+
+.form-contato input,
+.form-contato textarea{
+
+    padding:15px;
+
+    border:1px solid #e7c6d8;
+
+    border-radius:12px;
+
+    font-family:'Poppins', sans-serif;
+
+    font-size:15px;
+
+    outline:none;
+
+}
+
+.form-contato input:focus,
+.form-contato textarea:focus{
+
+    border-color:#d45d9b;
+
+}
+
+.form-contato button{
+
+    background:#d45d9b;
+
+    color:white;
+
+    border:none;
+
+    padding:15px;
+
+    border-radius:12px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.form-contato button:hover{
+
+    background:#be3d82;
+
+}
+
