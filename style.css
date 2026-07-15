@@ -8,7 +8,7 @@
 
 :root{
 
-    --rosa-claro:#FFF6FB;
+    --rosa-claro:#fcecf5;
     --rosa:#F48AB8;
     --rosa-escuro:#D64E91;
     --rosa-hover:#C93A7D;
@@ -271,7 +271,7 @@ nav a:hover::after{
 
 .hero-image img{
 
-    width:85%;
+    width:400%;
 
 }
 
@@ -446,7 +446,7 @@ width:70%;
 }
 
 
-/* Página Integrantes */
+/* PÁGINA DAS INTEGRANTES */
 
 .pagina-integrantes {
 
@@ -727,6 +727,34 @@ width:70%;
 .livro-card h3 {
 
     font-family: 'Playfair Display', serif;
+
+}
+
+.btn-comprar {
+
+    display: inline-block;
+
+    margin-top: 15px;
+
+    padding: 12px 20px;
+
+    background-color: #d45d9b;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 10px;
+
+    font-weight: 600;
+
+    transition: 0.3s;
+
+}
+
+.btn-comprar:hover {
+
+    background-color: #b73d80;
 
 }
 
