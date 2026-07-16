@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/imagens/logo.png" alt="Clube das Meninas Superleitoras" width="250">
+  <img src="assets/imagens/logo-nova-1.png" alt="Clube das Meninas Superleitoras" width="250">
 </p>
 
 <h1 align="center">📚 Clube das Meninas Superleitoras</h1>
