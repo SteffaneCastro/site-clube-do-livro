@@ -9,11 +9,9 @@
 
 # 📚 Site: Clube das Meninas Superleitoras
 
-> *"Quatro amigas. Muitos livros. Uma história sendo escrita a cada encontro."* 💜
-
 Bem-vindo ao repositório do **Clube das Meninas Superleitoras**!
 
-Este site foi criado para ser o diário oficial do nosso clube do livro. Aqui registramos cada capítulo da nossa história: os livros que lemos, os encontros que compartilhamos, nossas opiniões, fotos, desafios e todas as lembranças que construímos ao longo dessa jornada.
+Este site foi criado para ser o diário oficial do clube do livro. Aqui é registrado cada capítulo da história do clube: os livros que já foram lidos, os encontros compartilhados, as opiniões, fotos, desafios e todas as lembranças que foram construídas ao longo dessa jornada.
 
 Mais do que um projeto de desenvolvimento web, este é um espaço para guardar memórias e celebrar a amizade que cresce a cada nova leitura.
 
@@ -37,7 +35,7 @@ Este site nasceu para registrar toda essa trajetória, permitindo que possamos r
 * ☕ Histórico dos encontros;
 * 📸 Fotos e recordações;
 * ⭐ Avaliações e comentários sobre os livros;
-* 📚 Nossa estante literária.
+* 📚 A estante literária.
 
 ---
 
