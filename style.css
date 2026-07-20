@@ -764,8 +764,6 @@ width:70%;
 }
 
 
-
-
 .titulo-historico {
 
     text-align: center;
@@ -775,8 +773,6 @@ width:70%;
     font-family: 'Playfair Display', serif;
 
 }
-
-
 
 
 .lista-livros {
@@ -790,8 +786,6 @@ width:70%;
     flex-wrap: wrap;
 
 }
-
-
 
 
 .livro-card {
@@ -865,9 +859,6 @@ width:70%;
 
 /* CONTATO */
 
-/* ==========================
-        PÁGINA CONTATO
-========================== */
 
 .pagina-contato{
 
